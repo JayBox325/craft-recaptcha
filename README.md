@@ -2,7 +2,7 @@
 Craft plugin to dispaly Google's new reCaptcha form widget and validate responses.
 
 ## Install
-1. Upload entire recaptcha directory to `craft/plugins` on your server.
+1. Upload entire recaptcha directory to `craft/plugins` on your server and rename the directory to 'recaptcha'.
 2. Navigate to your site's Plugin settings from the Control Panel.
 3. Click Install
 4. Click on the 'reCAPTCHA for Craft' link to enter in your reCAPTCHA site key and secret key. You can get both keys from the [Google reCaptcha console](http://www.google.com/recaptcha/intro/index.html).
